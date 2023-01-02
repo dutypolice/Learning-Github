@@ -2,6 +2,6 @@
 #pragma warning(disable:4996)
 
 int main() {
-	printf("help me");
+	printf("help me too");
 	return 0;
 }
